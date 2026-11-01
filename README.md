@@ -11,4 +11,6 @@ I maintain four focused APIs with runnable examples and fictional samples:
 
 [Examples, synthetic samples and both WooCommerce connectors](https://github.com/israeldi/flamingo-api-examples) · [CreativePack GitHub Action](https://github.com/marketplace/actions/creativepack-html5-zip-optimizer) · [Local MCP tools](https://github.com/israeldi/flamingo-file-tools-mcp)
 
+A free [Agensi workflow skill](https://www.agensi.io/skills/flamingo-file-tools-access-pdf-zip-onix) provides instructions for the separately installed MCP bridge. Processing requires your own RapidAPI app key and a separate subscription for each selected API; usage is separately metered.
+
 The connectors and examples are available publicly. Processing uses your own subscribed RapidAPI app key; review current free-plan limits, supported inputs and privacy notes before your first request.
