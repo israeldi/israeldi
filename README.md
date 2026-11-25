@@ -1,3 +1,9 @@
+## PowerPoint chart checks for AI agents
+
+[ChartReceipt on Agensi](https://www.agensi.io/skills/chartreceipt-powerpoint-chart-data-checker) compares stored native PowerPoint chart values with the Excel workbook embedded behind each supported chart. It returns exact slide, series and cell differences in HTML/JSON reports while preserving the deck. [See the original fictional example](https://github.com/israeldi/flamingo-api-examples/tree/main/chartreceipt).
+
+One-time purchase; see the listing for the current price and any live deal. Requires an Agensi-connected, file-capable agent with Python 3.10+ and permitted local execution. The checker needs no Office installation, pip packages or separate API subscription. It does not recalculate formulas, repair charts, verify rendered appearance or establish business correctness.
+
 ## File-processing APIs and WooCommerce integrations
 
 I maintain six focused APIs with runnable examples and fictional samples:
