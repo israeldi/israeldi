@@ -38,3 +38,13 @@ I maintain six focused APIs with runnable examples and fictional samples:
 A free [Agensi workflow skill](https://www.agensi.io/skills/flamingo-file-tools-access-pdf-zip-onix) provides instructions and self-contained temporary Python clients for Access exports, CreativePack ZIP optimization, PatternCopy inspection/stamping and ShelfRelay previews. The direct route runs in a supported file-capable agent workspace without a separate Flamingo MCP server, pip install or client download. See the [full agent setup guide](https://github.com/israeldi/flamingo-api-examples#use-the-apis-from-your-agent) for prerequisites and key configuration. The local MCP bridge remains an optional alternative for compatible clients. Processing requires your own RapidAPI app key and a separate subscription for each selected API; usage is separately metered.
 
 The connectors and examples are available publicly. Processing uses your own subscribed RapidAPI app key; review current free-plan limits, supported inputs and privacy notes before your first request.
+
+## The Book of Fullness
+
+**The Book of Fullness: A Poetic Answer to Ecclesiastes from the Resurrection**, by Israel Diego, follows the questions of Ecclesiastes through twelve chapters of Christian poetry, with 222 poetic responses and accompanying commentary.
+
+For readers reflecting on work, grief, mortality and resurrection, it offers a continuous poem to read slowly or alongside Ecclesiastes.
+
+[View the U.S. Kindle edition on Amazon](https://www.amazon.com/dp/B0HRT6BVFR). See Amazon for current availability and price.
+
+Generative AI contributed draft language, revisions and the cover illustration. Israel Diego is responsible for the final text and editorial decisions; the book includes a development disclosure.
