@@ -4,6 +4,14 @@
 
 One-time purchase; see the listing for the current price and any live deal. Requires an Agensi-connected, file-capable agent with Python 3.10+ and permitted local execution. The checker needs no Office installation, pip packages or separate API subscription. It does not recalculate formulas, repair charts, verify rendered appearance or establish business correctness.
 
+## Repeatable CSV reports for your business
+
+If you rebuild the same report after each CSV export, I offer a repeatable reporting workflow with validation and a separate view of records that need attention.
+
+[View the CSV reporting service on Upwork](https://www.upwork.com/services/product/2113640063952854040). The listing contains the current packages, prices and delivery terms. Before ordering, message me there with the input format and desired report so we can confirm the fit.
+
+Development uses AI assistance. The agreed workflow defines the validation checks and deliverables.
+
 ## File-processing APIs and WooCommerce integrations
 
 I maintain six focused APIs with runnable examples and fictional samples:
