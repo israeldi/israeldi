@@ -4,6 +4,14 @@
 
 One-time purchase; see the listing for the current price and any live deal. Requires an Agensi-connected, file-capable agent with Python 3.10+ and permitted local execution. The checker needs no Office installation, pip packages or separate API subscription. It does not recalculate formulas, repair charts, verify rendered appearance or establish business correctness.
 
+## Organize Etsy monthly statements locally
+
+[Monthstack](https://diego612.gumroad.com/l/ljztne) combines supported English Etsy monthly-statement CSVs into a source-linked ledger, grouped totals, and review reports. The downloaded application processes files locally in your browser, keeps currencies separate, and preserves missing values and original source references.
+
+[Explore the interactive demonstration](https://monthstack-product-demo.idiego612.chatgpt.site/) · [Get the $29 one-time download for one Etsy shop](https://diego612.gumroad.com/l/ljztne)
+
+The demonstration uses fixed fictional data and accepts no uploads. Monthstack is an early-access, AI-assisted product; compatibility with current merchant statements remains unvalidated. It supports bookkeeping preparation; it does not determine tax treatment or reconcile bank accounts.
+
 ## Repeatable CSV reports for your business
 
 If you rebuild the same report after each CSV export, I offer a repeatable reporting workflow with validation and a separate view of records that need attention.
