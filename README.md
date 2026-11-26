@@ -18,6 +18,12 @@ The [Cross-Platform Release Handoff bundle](https://www.agensi.io/bundles/cross-
 
 The demonstration uses fixed fictional data and accepts no uploads. Monthstack is an early-access, AI-assisted product; compatibility with current merchant statements remains unvalidated. It supports bookkeeping preparation; it does not determine tax treatment or reconcile bank accounts.
 
+## Prepare for data science and ML interviews
+
+The Data Science & ML Interview Masterpack is a 56-page PDF with worked SQL and pandas examples, ML interview questions, system-design cases and a take-home project framework.
+
+[Try a practice question and see what’s in the Masterpack](https://diego612.gumroad.com/l/rhbce?utm_source=github&utm_medium=organic&utm_campaign=ds-ml-interview-masterpack)
+
 ## Repeatable CSV reports for your business
 
 If you rebuild the same report after each CSV export, I offer a repeatable reporting workflow with validation and a separate view of records that need attention.
