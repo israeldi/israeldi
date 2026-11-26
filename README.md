@@ -12,9 +12,9 @@ The [Cross-Platform Release Handoff bundle](https://www.agensi.io/bundles/cross-
 
 ## Organize Etsy monthly statements locally
 
-[Monthstack](https://diego612.gumroad.com/l/ljztne) combines supported English Etsy monthly-statement CSVs into a source-linked ledger, grouped totals, and review reports. The downloaded application processes files locally in your browser, keeps currencies separate, and preserves missing values and original source references.
+[Monthstack](https://diego612.gumroad.com/l/ljztne?utm_source=github&utm_medium=organic&utm_campaign=monthstack-etsy-ledger) combines supported English Etsy monthly-statement CSVs into a source-linked ledger, grouped totals, and review reports. The downloaded application processes files locally in your browser, keeps currencies separate, and preserves missing values and original source references.
 
-[Explore the interactive demonstration](https://monthstack-product-demo.idiego612.chatgpt.site/) · [Get the $29 one-time download for one Etsy shop](https://diego612.gumroad.com/l/ljztne)
+[Explore the interactive demonstration](https://monthstack-product-demo.idiego612.chatgpt.site/) · [Get the $29 one-time download for one Etsy shop](https://diego612.gumroad.com/l/ljztne?utm_source=github&utm_medium=organic&utm_campaign=monthstack-etsy-ledger)
 
 The demonstration uses fixed fictional data and accepts no uploads. Monthstack is an early-access, AI-assisted product; compatibility with current merchant statements remains unvalidated. It supports bookkeeping preparation; it does not determine tax treatment or reconcile bank accounts.
 
