@@ -45,6 +45,12 @@ A free [Agensi workflow skill](https://www.agensi.io/skills/flamingo-file-tools-
 
 The connectors and examples are available publicly. Processing uses your own subscribed RapidAPI app key; review current free-plan limits, supported inputs and privacy notes before your first request.
 
+## Nib’s Little Kitchen
+
+A pretend kitchen for iPhone and iPad. Chop, cook, and serve with Nib and Mira. Try six ingredients for free and play offline without ads or subscriptions. An optional one-time Full Kitchen purchase unlocks the rest of the kitchen.
+
+[View Nib’s Little Kitchen on the App Store](https://apps.apple.com/app/apple-store/id6829138641?pt=118613426&ct=nib_github_profile&mt=8) · [See gameplay and get support](https://israeldi.github.io/nibs-little-kitchen-support/)
+
 ## The Book of Fullness
 
 **The Book of Fullness: A Poetic Answer to Ecclesiastes from the Resurrection**, by Israel Diego, follows the questions of Ecclesiastes through twelve chapters of Christian poetry, with 222 poetic responses and accompanying commentary.
