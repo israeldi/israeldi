@@ -47,7 +47,7 @@ The connectors and examples are available publicly. Processing uses your own sub
 
 ## Nib’s Little Kitchen
 
-A pretend kitchen for iPhone and iPad. Chop, cook, and serve with Nib and Mira. Try six ingredients for free and play offline without ads or subscriptions. An optional one-time Full Kitchen purchase unlocks the rest of the kitchen.
+A pretend kitchen for iPhone and iPad. Chop, cook, and serve with Nib and Mira. Try six ingredients for free and play offline without ads or subscriptions. An optional one-time Full Kitchen purchase unlocks all included diners and foods.
 
 [View Nib’s Little Kitchen on the App Store](https://apps.apple.com/app/apple-store/id6829138641?pt=118613426&ct=nib_github_profile&mt=8) · [See gameplay and get support](https://israeldi.github.io/nibs-little-kitchen-support/)
 
