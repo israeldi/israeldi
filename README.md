@@ -18,6 +18,12 @@ The [Cross-Platform Release Handoff bundle](https://www.agensi.io/bundles/cross-
 
 The demonstration uses fixed fictional data and accepts no uploads. Monthstack is an early-access, AI-assisted product; compatibility with current merchant statements remains unvalidated. It supports bookkeeping preparation; it does not determine tax treatment or reconcile bank accounts.
 
+## Practice Python with a worked data exercise
+
+[Open the free Jupyter exercise](python-data-science-workbook-preview.ipynb) to turn a fictional checkout log into a conversion report. Practice grouping events, removing duplicates, and handling a channel with no visitors. The notebook includes the data, a worked solution, and checks you can run.
+
+[See the complete Python for Data Science workbook](https://diego612.gumroad.com/l/bmkmqv?utm_source=github&utm_medium=organic&utm_campaign=python-workbook-preview) for ten practice notebooks and worked solutions.
+
 ## Prepare for data science and ML interviews
 
 The Data Science & ML Interview Masterpack is a 56-page PDF with worked SQL and pandas examples, ML interview questions, system-design cases and a take-home project framework.
