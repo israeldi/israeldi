@@ -4,6 +4,12 @@
 
 One-time purchase; see the listing for the current price and any live deal. Requires an Agensi-connected, file-capable agent with Python 3.10+ and permitted local execution. The checker needs no Office installation, pip packages or separate API subscription. It does not recalculate formulas, repair charts, verify rendered appearance or establish business correctness.
 
+## Prepare a Windows release and its support guide
+
+The [Cross-Platform Release Handoff bundle](https://www.agensi.io/bundles/cross-platform-release-handoff) combines two Agensi skills. Use InstallTwin to prepare a native PowerShell counterpart to an existing Bash installer. After validating your install procedure, use GuideBranch to turn the approved support steps into an interactive guide.
+
+[See the two workflows and a fictional guide example](https://github.com/israeldi/flamingo-api-examples/blob/main/PAID-WORKFLOWS.md#prepare-a-windows-release-and-its-support-guide).
+
 ## Organize Etsy monthly statements locally
 
 [Monthstack](https://diego612.gumroad.com/l/ljztne) combines supported English Etsy monthly-statement CSVs into a source-linked ledger, grouped totals, and review reports. The downloaded application processes files locally in your browser, keeps currencies separate, and preserves missing values and original source references.
