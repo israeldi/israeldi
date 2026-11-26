@@ -51,6 +51,6 @@ The connectors and examples are available publicly. Processing uses your own sub
 
 For readers reflecting on work, grief, mortality and resurrection, it offers a continuous poem to read slowly or alongside Ecclesiastes.
 
-[View the U.S. Kindle edition on Amazon](https://www.amazon.com/dp/B0HRT6BVFR). See Amazon for current availability and price.
+[Read the free Kindle sample](https://read.amazon.com/sample/B0HRT6BVFR?clientId=share) · [View the U.S. Kindle edition on Amazon](https://www.amazon.com/dp/B0HRT6BVFR). See Amazon for current availability and price.
 
 Generative AI contributed draft language, revisions and the cover illustration. Israel Diego is responsible for the final text and editorial decisions; the book includes a development disclosure.
